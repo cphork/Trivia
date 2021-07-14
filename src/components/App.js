@@ -1,4 +1,8 @@
-import './App.css';
+import '../App.css';
+import Button from './button';
+import Card from './card';
+import Score from './score';
+
 
 function App() {
   return (
